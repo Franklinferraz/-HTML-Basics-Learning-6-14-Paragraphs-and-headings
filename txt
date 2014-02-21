@@ -1,0 +1,27 @@
+Paragraphs and headings
+
+We're definitely making good progress! 
+We've learned when and why we use HTML. 
+We've also learned how to:
+
+a. Set up an HTML file with tags
+b. Title the webpage (in the <head>)
+c. Create paragraphs (in the <body> with <p> tags)
+
+The next step is to give our paragraphs headings using heading tags. 
+Let's start with the <h1> tag. The content between this tag will be the biggest!
+
+Instructions
+In the body section, create a heading.
+To do this, create an <h1> tag.
+Add content.
+Close the element with a closing tag </h1>. 
+(Your content should now be between <h1> and </h1>.)
+Underneath the heading tags, create two paragraphs using <p> tags with whatever content you like.
+
+Stuck? Get a hint!
+
+Hint
+Remember: paragraphs require <p></p> tags!
+
+Q&A Forum Glossary
